@@ -68,7 +68,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jayesh-goyal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayesh-goyal/jayesh-goyal/output/pacman-contribution-graph-dark.svg">
