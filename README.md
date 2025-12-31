@@ -8,10 +8,10 @@
 
 
 # 💫 About Me:
-🔹 Ethical Hacker | Penetration Tester | Cybersecurity Analyst | BugBounty Hunter
-🔹 Expert in Network Security & Defence, Web Defense & Security, and Red Teaming
-🔹 Passionate about Threat Intelligence, SIEM, and Digital Forensics
-🔹 Strong skills in OSINT, Incident Response, and Secure Coding
+🔹 Ethical Hacker | Penetration Tester | Cybersecurity Analyst | BugBounty Hunter<br>
+🔹 Expert in Network Security & Defence, Web Defense & Security, and Red Teaming<br>
+🔹 Passionate about Threat Intelligence, SIEM, and Digital Forensics<br>
+🔹 Strong skills in OSINT, Incident Response, and Secure Coding<br>
 🔹 Cybersecurity Trainer & Speaker 🎤
 
 
