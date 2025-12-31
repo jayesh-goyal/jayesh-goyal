@@ -69,6 +69,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=jayesh-goyal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
+<img src="https://raw.githubusercontent.com/jayesh-goyal/jayesh-goyal/output/snake.svg" alt="Snake animation" />
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayesh-goyal/jayesh-goyal/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jayesh-goyal/jayesh-goyal/output/pacman-contribution-graph.svg">
@@ -76,7 +80,6 @@
 </picture>
 
 ###
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jayesh-goyal&limit=5&theme=dark&combine_all_yearly_contributions=true)
